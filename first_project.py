@@ -1,6 +1,6 @@
 
 
-a=10
+t=45
 print('sanjay')
 
 
