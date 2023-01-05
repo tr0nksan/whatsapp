@@ -1,5 +1,5 @@
 
-a=205
+d=205
 
-b=305
-print(a+b)
+c=305
+print(d+c)
