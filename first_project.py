@@ -1,6 +1,6 @@
 
 
 a=10
-print('sanjay')
+print('prawin')
 
 
